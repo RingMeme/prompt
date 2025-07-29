@@ -6,6 +6,6 @@ Create a Ring doorbell camera footage screenshot. The scene shows a fisheye lens
 **How to Use**:
 1. Go to ChatGPT or Grok
 2. Upload your photo when prompted.
-3. Copy and paste the above prompt into  input field.
+3. Copy and paste the above prompt into input field.
 4. Generate the image and download the result.
-5. (Optional) Adjust the prompt for different backgrounds or styles.
+5. (Optional) Adjust the prompt for different backgrounds, styles or describe the picture here [INSERT USER PHOTO]
